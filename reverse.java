@@ -3,6 +3,7 @@ import java.net.InetAddress;
 /**
  * The reverse class performs reverse DNS lookups to obtain the DNS names corresponding to a list of IP addresses.
  * It takes IP addresses as command-line arguments and displays their corresponding DNS names if available.
+ * @author Aditya Sharma (ID: 1616591)
  */
 public class reverse {
 

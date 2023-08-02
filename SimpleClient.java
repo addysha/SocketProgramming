@@ -6,6 +6,7 @@ import java.net.Socket;
 /**
  * The SimpleClient class is a simple client program that connects to the server,
  * prints out whatever the server sends back, and then exits.
+ * @author Aditya Sharma (ID: 1616591)
  */
 public class SimpleClient {
     public static void main(String[] args) {

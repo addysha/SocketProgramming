@@ -3,6 +3,7 @@ import java.net.InetAddress;
 /**
  * The resolve class resolves a list of domain names to their corresponding IPv4 addresses.
  * It takes domain names as command-line arguments and displays their IPv4 addresses if available.
+ * @author Aditya Sharma (ID: 1616591)
  */
 public class resolve {
 

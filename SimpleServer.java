@@ -8,6 +8,7 @@ import java.net.Socket;
  * The SimpleServer class is a simple network server that greets each client that connects and then disconnects them.
  * It listens on an available port and prints the chosen port number to the console.
  * When a client connects, it obtains the client's IP address, resolves it to its name, and greets the client.
+ * @author Aditya Sharma (ID: 1616591)
  */
 public class SimpleServer {
     public static void main(String[] args) {
